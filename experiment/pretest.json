@@ -19,7 +19,7 @@
         "b": "ceramic",
         "c": "paper",
         "d": "None of these"
-      }
+      },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -30,7 +30,7 @@
         "b": "1 pico F",
         "c": "1 micro F",
         "d": "1 macro F"
-      }
+      },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -41,7 +41,7 @@
         "b": "Time for 37% of the initial charge to leave the capacitor.",
         "c": "Time for the capacitor to completely discharge.",
         "d": "None of these"
-      }
+      },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -52,7 +52,7 @@
         "b": "Its capacitance is increased",
         "c": "Its capacitance is decreased",
         "d": "Its capacitance is volatile"
-      }
+      },
       "correctAnswer": "b",
       "difficulty": "beginner"
     }

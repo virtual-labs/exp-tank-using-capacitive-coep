@@ -8,7 +8,7 @@
         "b": "decreasing the size of the gap (D)",
         "c": "either or both of the these",
         "d": "None of these"
-      }
+      },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -19,7 +19,7 @@
         "b": "materials with large particle sizes exceeding 1/2 in. in diameter",
         "c": "slurries",
         "d": "None of these"
-      }
+      },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -30,7 +30,7 @@
         "b": "change of area of plates",
         "c": "change of capacitance with change of distance between plates",
         "d": "None of these"
-      }
+      },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -41,7 +41,7 @@
         "b": "dynamic measurements",
         "c": "both static and dynamic measurements",
         "d": "None of these"
-      }
+      },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -52,7 +52,7 @@
         "b": "volatile",
         "c": "very low",
         "d": "very high"
-      }
+      },
       "correctAnswer": "d",
       "difficulty": "beginner"
     }
