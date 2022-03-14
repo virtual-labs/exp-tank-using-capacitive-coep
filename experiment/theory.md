@@ -32,36 +32,36 @@ The selection criteria for level sensor include:
 
  From the application point of view the considerations are :
 
-	·          Price
-	·         Accuracy
-	·         Response rate
-	·         Ease of calibration
-	·         Physical size and mounting of the instrument 
-	·         Monitoring or control of continuous or discrete levels
+- Price
+- Accuracy
+- Response rate
+- Ease of calibration
+- Physical size and mounting of the instrument 
+- Monitoring or control of continuous or discrete levels
 
 
  Level measurements are broadly classified in two groups:
 
-	·          Direct methods
-	·         Indirect methods
+- Direct methods
+- Indirect methods
 
 
 **In direct methods**, the level is indicated directly by means of simple mechanical devices. The measurement is not affected by changes in material density. Few examples are:
 
-	·         Dip Stick
-	·         Resistance Tapes
-	·         Sight Glass
-	·         Floats
-	·         Ultrasonic 
-	·         Radar
+- Dip Stick
+- Resistance Tapes
+- Sight Glass
+- Floats
+- Ultrasonic 
+- Radar
 
 
 **In Indirect methods**, the level is converted in a measurable signal using a suitable transducer. Change in the material affects the measurement. A corrective factor must be used in recalibrating the instrument. Few examples are:
 
-	·         Hydrostatic head methods
-	·         Load cell
-	·         Capacitance
-	·         Conductivity
+- Hydrostatic head methods
+- Load cell
+- Capacitance
+- Conductivity
 
 
 *Capacitance Level Measurement:*
@@ -76,16 +76,11 @@ Capacitance level sensors are used for wide variety of solids, aqueous and organ
 
 Since capacitance level sensors are electronic devices, phase modulation and the use of higher frequencies makes the sensor suitable for applications in which dielectric constants are similar.
 
- 
-
-
-
 **Working Principle:**
 The principle of capacitive level measurement is based on change of capacitance. An insulated electrode acts as one plate of capacitor and the tank wall (or reference electrode in a non-metallic vessel) acts as the other plate. The capacitance depends on the fluid level. An empty tank has a lower capacitance while a filled tank has a higher capacitance.
 A simple capacitor consists of two electrode plate separated by a small thickness of an insulator such as solid, liquid, gas, or vacuum. This insulator is also called as dielectric. Value of C depends on dielectric used, area of the plate and also distance between the plates.
 
           C = E (K A/d)                                            
-
 
 Where:
 C = capacitance in picofarads (pF)
@@ -100,27 +95,18 @@ Measurement is made by applying an RF signal between the conductive probe and th
 
  Level Measurement can be divided into three categories:
 
-	·          Measurement of non-conductive material
-	·         Measurement of conductive material
-	·         Non-contact measurement
-
-
- 
+- Measurement of non-conductive material
+- Measurement of conductive material
+- Non-contact measurement
 
 **Non-conducting material:**
 For measuring level of non conducting liquids, bare probe arrangement is used as liquid resistance is sufficiently high to make it dielectric. Since the electrode and tank are fixed in place, the distance (d) is constant, capacitance is directly proportional to the level of the material acting as dielectric.
 
- 
-
 **Conducting Material:**
 In conducting liquids, the probe plates are insulated using thin coating of glass or plastic to avoid short circuiting. The conductive material acts as the ground plate of the capacitor.
 
- 
-
 Proximity measurements (Non-contact type measurements):
 In Proximity level measurement is the area of the capacitance plates is fixed, but distance between plates varies. Proximity level measurement does not produce a linear output and are used when the level varies by several inches.
-
- 
 
 ### **Advantages of Capacitive level measurement:**
 	
