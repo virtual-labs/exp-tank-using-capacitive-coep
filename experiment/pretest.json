@@ -2,37 +2,58 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The maximum energy that can be stored safely in a capacitor is limited by",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "the breakdown voltage",
+        "b": "width of dielectric",
+        "c": "None of these",
+        "d": "both breakdown voltage and width of dielectric"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The dielectric used in high value capacitors is",
+      "answers": {
+        "a": "mica",
+        "b": "ceramic",
+        "c": "paper",
+        "d": "None of these"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "A capacitor with the following text on its body: 105K has a capacitance of",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "1 milli F",
+        "b": "1 pico F",
+        "c": "1 micro F",
+        "d": "1 macro F"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following best describes the time constant in an RC (resistor - capacitor) circuit?",
+      "answers": {
+        "a": "Time for the charge stored in the capacitor to drop to 37% of its original value.",
+        "b": "Time for 37% of the initial charge to leave the capacitor.",
+        "c": "Time for the capacitor to completely discharge.",
+        "d": "None of these"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Between the plates of an air capacitor if a glass slab is inserted without moving the plate then",
+      "answers": {
+        "a": "Its capacitance is hardly affected",
+        "b": "Its capacitance is increased",
+        "c": "Its capacitance is decreased",
+        "d": "Its capacitance is volatile"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]

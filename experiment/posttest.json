@@ -2,37 +2,58 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Sensitivity of Capacitance Level Probe can be increased by",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "increasing the probe length (A)",
+        "b": "decreasing the size of the gap (D)",
+        "c": "either or both of the these",
+        "d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Capacitance sensor cannot be used to measure level of",
+      "answers": {
+        "a": "interface between two immiscible liquids",
+        "b": "materials with large particle sizes exceeding 1/2 in. in diameter",
+        "c": "slurries",
+        "d": "None of these"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The principle of operation used in Capacitive transducers is",
+      "answers": {
+        "a": "change of dielectric strength",
+        "b": "change of area of plates",
+        "c": "change of capacitance with change of distance between plates",
+        "d": "None of these"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Capacitive transducers are normally used for",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "static measurements",
+        "b": "dynamic measurements",
+        "c": "both static and dynamic measurements",
+        "d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The output impedance of a typical Capacitance Transducer is",
+      "answers": {
+        "a": "moderate",
+        "b": "volatile",
+        "c": "very low",
+        "d": "very high"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
