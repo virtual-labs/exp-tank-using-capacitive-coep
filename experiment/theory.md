@@ -7,7 +7,6 @@ Before performing this experiment, student must have knowledge about
 2.   Types of Capacitors
 
 3.   Effect of various factors that affect the output of a capacitor e.g. temperature, dielectric constant of insulator used, distance between the plates, are of the plates used, etc.
-
  
 ### **Level measurements**
 
